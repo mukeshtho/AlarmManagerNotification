@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AlarmManager Notification</string>
+    <string name="fetch_quote">Enable Notification</string>
+    <string name="display_quote">Display Quote</string>
+    <string name="set_alarm_title">What time do you want to receive the quote everyday?</string>
+    <string name="author_txt">Author</string>
+    <string name="confirmation_txt" formatted="false">Quote notification set to %s</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Constants for url mapping -->
+    <string name="base_url">http://192.168.1.67:3700</string>
+
+</resources>
